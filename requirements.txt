@@ -1,3 +1,5 @@
 jupyter_ui_poll
 pandas
 ipywidgets
+numpy
+matplotlib
